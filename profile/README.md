@@ -4,7 +4,7 @@ Hello! This organization is host to all the repositories that deal with the Appl
 
 ### Project Links
 
-Discord: https://discord.gg/4PaznjEERP
+Discord: https://discord.gg/tXEkacZdZ5
 
 Telegram: https://t.me/AppleWOA
 
